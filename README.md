@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
 ## Output
 ![WhatsApp Image 2023-06-15 at 16 07 35](https://github.com/AavulaTharun/SkillAss-01/assets/93427201/2cd98a64-cb44-480a-b4b1-6a074f156fa4)
 
-![WhatsApp Image 2023-06-15 at 16 07 35](https://github.com/AavulaTharun/SkillAss-01/assets/93427201/3f908c44-66ed-4385-a3e1-f338c52efd23)
+![WhatsApp Image 2023-06-15 at 16 02 27](https://github.com/AavulaTharun/SkillAss-01/assets/93427201/997f0ff6-e556-4497-80b7-16606784ef5f)
 
 ## Result:
 Thus a Simple Android Creation to create an Thread synchronization using Android Studio was developed and executed successfully.
