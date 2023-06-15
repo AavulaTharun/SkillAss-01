@@ -70,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
 
 ~~~
 ## activity_main.xml:
+~~~
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -98,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>
+~~~
 
 ## Output
 ![WhatsApp Image 2023-06-15 at 16 07 35](https://github.com/AavulaTharun/SkillAss-01/assets/93427201/2cd98a64-cb44-480a-b4b1-6a074f156fa4)
